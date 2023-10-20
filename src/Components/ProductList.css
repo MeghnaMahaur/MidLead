@@ -1,0 +1,19 @@
+.contain{
+    background-color: rgb(7, 7, 7);
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+}
+
+th{
+    background-color: orange;
+    border: 1px solid black;
+}
+
+td{
+    background-color: rgb(250, 131, 88);
+    border: 1px solid black;
+}
